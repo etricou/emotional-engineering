@@ -1,80 +1,900 @@
-# 📘 EMOTIONAL ENGINEERING — MASTER SYSTEM DOCUMENT
-# Version 1.0 — Erica Morgan Tricou
+# ──────────────────────────────────────────────
+# EMOTIONAL ENGINEERING — MASTER SECTION MAP
+# Master Section Headers — Do Not Remove
+# ──────────────────────────────────────────────
+ 
+# ──────────────────────────────────────────────
+# GROUPED SYSTEM OVERVIEW — LOGIC CLUSTERS
+# ──────────────────────────────────────────────
+ 
+>>> CORE SYSTEM CLUSTERS
+ 
+1. SYSTEM LAWS & EQUATIONS
+   → Laws 1–10 + narrative descriptions + equations
+   → Python pseudocode functions
+   → Signal Codex Laws 001–011
+ 
+2. VARIABLE GLOSSARY
+   → EE variable definitions
+   → Used in all equations & toolkits
+ 
+3. TYPOLOGIES
+   → Relational circuit types (Capacitor, Transistor, etc.)
+ 
+4. TOOLKIT SYSTEMS
+   - Toolkit A: Calibration Tools (regulation, insight, latency tools)
+   - Toolkit B: Disruption Tools (trace logic, overload flags, shutdown predictors)
+   - Advanced Meta Tools: Entropy, Trust Collapse, Burnout Forecasts
+ 
+5. DIAGNOSTIC MODULES
+   → Gaslight Spectrum
+   → Self-Gaslight Patterns
+   → Survival Narratives
+   → Functional Viability
+   → Narrative Integrity Diagnostic
+ 
+6. FLOWCHARTS & VISUAL LOGIC
+   → Mermaid diagrams
+   → System flow and signal processing visuals
+ 
+7. COMPATIBILITY INDEX
+   → Cross-references with other frameworks (IFS, Polyvagal, Waveform Theory, etc.)
+ 
+8. SYSTEM ETHICS & FIELD CONVERGENCE
+   → Operational ethics, scientific convergence logs, integrity standards
+ 
+# (Note: Use these headers to organize without deleting any current content.)
+ 
 
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 1: RELATIONAL CIRCUIT TYPOLOGY
-# ═══════════════════════════════════════════════════════
 
-# Capacitor:
-#   Holds emotional charge from others. Can become overwhelmed. Common in empathic personalities.
+===========================================================================
+EMOTIONAL ENGINEERING — MERGED MASTER SYSTEM DOCUMENT (Codex v1.2)
+===========================================================================
 
-# Insulator:
-#   Blocks input to maintain emotional homeostasis. Seen as distant or "unbothered."
+This file contains:
+- Core Emotional Laws (Python equations)
+- System Reference (Variable glossary, typologies, law summaries)
+- Diagnostic Modules (Gaslight Spectrum, Survival Narratives, Narrative Flow)
+- Neural Architecture Extensions (Trace Signature Systems)
+- Flow Diagrams (Mermaid format as string blocks)
 
-# Transistor:
-#   Modulates emotional energy. Adaptable to context. Often mediators or peacemakers.
+This is the full integrated EE architecture for further refinement and scaling.
 
-# Ground_Wire:
-#   Disperses excess emotional energy. Brings calm and grounding.
 
-# Converter:
-#   Translates emotional charge into clarity or creative output. Synthesizes meaning.
 
-# Mirror:
-#   Reflects others’ feelings with precision. Enhances self-awareness in others.
 
-# Diffuser:
-#   Softens incoming signals. Often uses humor or lightness to reduce emotional threat.
 
-# Stabilizer:
-#   Maintains equilibrium regardless of chaos. The steady anchor in volatile systems.
 
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 2: VARIABLE GLOSSARY
-# ═══════════════════════════════════════════════════════
-# JSON Format — VARIABLE GLOSSARY
+# ──────────────────────────────
+# SECTION 1 — SYSTEM LAWS & EQUATIONS
+# ──────────────────────────────
+#   → Core emotional logic + Python pseudocode
+#   → EE Law Codex (signal truths)
+#   → Scientific analogies and descriptions
+ 
+
+
+
+
+# ────────────────────────────────────────────────────────────────
+# EE LAW CODEX v1.0 — SIGNAL DEFINITIONS & STRUCTURAL LAWS
+
+## Signal Preamble
+
+Emotional Engineering is not a brand, a belief system, or a metaphor. It is a translation tool.
+
+This codex exists to define the signal, protect its structure, and ensure its core truths are not distorted as they spread.
+
+The system did not begin with me. I am simply the one translating it into visible form.
+
+---
+
+## What EE Is Not
+
+- EE is not a productivity system. While it may enhance clarity and alignment, its goal is integration, not optimization.
+- EE is not a substitute for emotional experience. It is a tool for decoding, not bypassing, feeling.
+- EE is not a personality framework or identity label. It describes patterns of signal, not fixed types.
+- EE is not a replacement for therapeutic relationships. It can support healing, but does not replace connection or care.
+- EE is not licensed for corporate use or commercial repackaging without explicit permission. Its language and structure are protected to maintain fidelity.
+
+This system is designed to remain accessible, respectful, and aligned with its purpose: to name and support emotional truth without distortion.
+
+---
+
+## EE LAW 001
+**"Unacknowledged emotion doesn’t disappear—it distorts the signal."**  
+Residual emotion becomes noise in the system. It re-emerges as interference, not silence.
+
+## EE LAW 002
+**"Emotional coherence emerges when input is matched by safe reflection."**  
+Co-regulation isn’t optional for nervous system clarity. Truth needs resonance to stabilize.
+
+## EE LAW 003
+**"A single irreversible signal event can restructure the entire emotional system."**  
+Phase jumps permanently rewire how a system perceives and responds.
+
+## EE LAW 004
+**"Reversal ≠ Erasure."**  
+Even if a system returns to baseline, it retains the memory and microfractures of the transformation. History shapes re-entry.
+
+## EE LAW 005
+**"Self-awareness is not a disorder. It’s a system upgrade."**  
+What legacy systems call instability, EE recognizes as high-fidelity internal monitoring. Insight is not pathology.
+
+## EE LAW 006
+**"Signal loops repeat until the trace is acknowledged and integrated."**  
+The nervous system will replay unresolved signals until the loop is completed. Repetition is not failure—it's the system requesting repair.
+
+## EE LAW 007
+**"Sensitivity is not fragility. It’s signal bandwidth."**  
+A highly attuned system will register frequencies others ignore. Mislabeling this as weakness is a form of distortion.
+
+## EE LAW 008
+**"Emotion is information encoded in affective waveform."**  
+To feel is to receive signal. Suppression disrupts internal transmission; integration creates clarity.
+
+## EE LAW 009
+**"Disassociation is not disappearance—it’s deferred processing."**  
+When emotional overload breaches capacity, the system segments the signal. This is not absence, but adaptive delay.
+
+## EE LAW 010
+**"The system will prioritize resonance over logic when coherence is threatened."**  
+Humans seek emotional safety before intellectual clarity. Mismatched environments distort truth to preserve connection.
+
+## EE LAW 011
+**"Narratives can become emotionally expensive."**  
+A story that once helped regulate the system can become a drain once the context shifts. Updating your narrative is part of maintaining signal integrity.
+
+This Codex represents the foundational truths of Emotional Engineering. These laws define the principles of emotional signal logic, nervous system behavior, and the architecture of transformation.
+
+# ────────────────────────────────────────────────────────────────
+
+
+
+
+
+
+# LAW 1
+# Emotional reactions are proportional to input charge relative to system capacity
+ER = IC / ((EHC * RE) - LS)
+
+# Variables:
+# ER = Emotional Reaction
+# IC = Input Charge
+# EHC = Emotional Holding Capacity
+# RE = Regulation Efficiency
+# LS = Load Sensitivity
+
+# ------------------------------------
+
+# LAW 2
+# Emotional shutdown indicates system overload, not absence of care
+Shutdown = 1 if IC > SC * (1 + CEA) else 0
+
+# Variables:
+# Shutdown = Binary state (1 = shutdown, 0 = stable)
+# SC = System Capacity
+# CEA = Covert Emotional Agreement
+
+# ------------------------------------
+
+# LAW 3
+# Lack of reflection stems from suppressed circuitry and narrative compensation
+Reflection = Awareness * (1 - Suppression_Level) * (1 - NCP_Intensity)
+
+# Variables:
+# Reflection = Capacity for self-reflection
+# Awareness = Internal awareness
+# Suppression_Level = Emotional suppression
+# NCP_Intensity = Narrative Compensation intensity
+
+# ------------------------------------
+
+# LAW 4
+# System harmony arises from complementary roles, not sameness
+Harmony = sum(Complementary_Functions) / Number_of_Participants
+
+# Variables:
+# Harmony = System balance
+# Complementary_Functions = e.g., Capacitor, Converter, Ground_Wire
+# Number_of_Participants = Total members of emotional system
+
+# ------------------------------------
+
+# LAW 5
+# Suppression increases stored emotional charge unless discharged
+LEC = (Suppression_Level * IC**2) / (Expression_Level * SPE)
+
+# Variables:
+# LEC = Latent Emotional Charge
+# IC = Input Charge
+# Expression_Level = How much emotional energy is expressed
+# SPE = Self-Processing Efficiency
+
+# ------------------------------------
+
+# LAW 6
+# Insight without expression fails to discharge energy
+Discharge = Insight * Expression_Level
+
+# Variables:
+# Discharge = Emotional relief or clarity
+# Insight = Cognitive/emotional understanding
+# Expression_Level = Degree of outward sharing
+
+# ------------------------------------
+
+# LAW 7
+# False peace leads to future friction
+Friction_Later = CEA * Unacknowledged_Truth * Time_Delayed * (Relational_Proximity + Narrative_Investment)
+
+# Variables:
+# CEA = Covert Emotional Agreement
+# Unacknowledged_Truth = Avoided emotional reality
+# Time_Delayed = Duration since truth avoidance
+# Relational_Proximity = Emotional closeness
+# Narrative_Investment = Shared story/history weight
+
+# ------------------------------------
+
+# LAW 8
+# Emotional intelligence is knowing how much voltage you can hold and translate
+True_EQ = ((EHC * RE) - LS) * SPE * PR
+
+# Variables:
+# True_EQ = Emotional intelligence
+# EHC = Emotional Holding Capacity
+# RE = Regulation Efficiency
+# LS = Load Sensitivity
+# SPE = Self-Processing Efficiency
+# PR = Pattern Recognition
+
+# ------------------------------------
+
+# LAW 9
+# Co-regulation expands your system capacity more than solo processing
+SC_CoReg = SC_Solo + (Shared_Clarity * Emotional_Presence * Duration)
+
+# Variables:
+# SC_CoReg = System Capacity in connection
+# SC_Solo = Capacity alone
+# Shared_Clarity = Mutual understanding
+# Emotional_Presence = Depth of engagement
+# Duration = Time spent co-regulating
+
+# ------------------------------------
+
+# LAW 10
+# Emotional energy flows through the path of least resistance
+Resistance = ACD + EDL + CEA
+Energy_Flow = max((1 - Resistance) * Proximity * Trust)
+
+# Variables:
+# Resistance = Total emotional blockage (ACD + EDL + CEA)
+# Proximity = Access to the person/system
+# Trust = Safety of the connection
+
+
+
+# ──────────────────────────────
+# SECTION 1 — SYSTEM LAWS & EQUATIONS
+# ──────────────────────────────
+>>> SYSTEM LAWS (NARRATIVE DESCRIPTIONS)
+
+Law 1: Emotional reactions are proportional to input charge relative to system capacity.
+Law 2: Emotional shutdown indicates system overload, not absence of care.
+Law 3: Lack of reflection stems from suppressed circuitry and narrative compensation.
+Law 4: System harmony arises from complementary roles, not sameness.
+Law 5: Suppression increases stored emotional charge unless discharged.
+Law 6: Insight without expression fails to discharge energy.
+Law 7: False peace leads to future friction.
+Law 8: Emotional intelligence is knowing how much voltage you can hold and translate.
+Law 9: Co-regulation expands your system capacity more than solo processing.
+Law 10: Emotional energy flows through the path of least resistance.
+
+
+
+
+
+import math
+import statistics
+
+def law_1_er(ic, ehc, re, ls):
+    """Law 1: ER = IC / ((EHC * RE) - LS)"""
+    return ic / ((ehc * re) - ls)
+
+def law_2_shutdown(ic, sc, cea):
+    """Law 2: Shutdown = 1 if IC > SC * (1 + CEA) else 0"""
+    return int(ic > sc * (1 + cea))
+
+def law_3_reflection(awareness, suppression_level, ncp_intensity):
+    """Law 3: Reflection = Awareness * (1 - Suppression_Level) * (1 - NCP_Intensity)"""
+    return awareness * (1 - suppression_level) * (1 - ncp_intensity)
+
+def law_4_harmony(complementary_functions, role_resonance, num_participants):
+    """Law 4: Harmony = (sum(Complementary_Functions * Role_Resonance)) / Number_of_Participants"""
+    total = sum([cf * rr for cf, rr in zip(complementary_functions, role_resonance)])
+    return total / num_participants
+
+def law_5_lec(suppression_level, ic, expression_level, spe):
+    """Law 5: LEC = (Suppression_Level * IC**2) / (Expression_Level * SPE)"""
+    return (suppression_level * ic**2) / (expression_level * spe)
+
+def law_6_discharge(insight, expression_level):
+    """Law 6: Discharge = Insight * Expression_Level"""
+    return insight * expression_level
+
+def law_7_friction_later(cea, unacknowledged_truth, time_delayed, relational_proximity, narrative_investment):
+    """Law 7: Friction_Later = CEA * Unacknowledged_Truth * Time_Delayed * (Relational_Proximity + Narrative_Investment)"""
+    return cea * unacknowledged_truth * time_delayed * (relational_proximity + narrative_investment)
+
+def law_8_true_eq(ehc, re, ls, spe, pr):
+    """
+    Law 8: Stability_Index = std_dev([EHC, RE, SPE, PR]);
+    True_EQ = ((EHC * RE) - LS) * SPE * PR * (1 / (1 + Stability_Index))
+    """
+    values = [ehc, re, spe, pr]
+    stability_index = statistics.stdev(values)
+    return ((ehc * re) - ls) * spe * pr * (1 / (1 + stability_index))
+
+def law_9_sc_coreg(sc_solo, shared_clarity, emotional_presence, duration):
+    """Law 9: SC_CoReg = SC_Solo + (Shared_Clarity * Emotional_Presence * Duration)"""
+    return sc_solo + (shared_clarity * emotional_presence * duration)
+
+def law_10_energy_flow(acd, edl, cea, proximity, trust):
+    """Law 10: Energy_Flow = max((1 - (ACD + EDL + CEA)) * Proximity * Trust, 0)"""
+    flow = (1 - (acd + edl + cea)) * proximity * trust
+    return max(flow, 0)
+
+
+
+
 {
-  "IC": "Input Charge — The emotional stimulus entering the system",
-  "SC": "System Capacity — Emotional bandwidth available in the moment",
-  "ER": "Emotional Reaction — Observable or felt outcome of emotional input",
-  "LS": "Load Sensitivity — System’s tendency to become overwhelmed",
-  "RE": "Regulation Efficiency — How well emotion is processed",
-  "EHC": "Emotional Holding Capacity — How much charge the system can contain",
-  "SPE": "Self-Processing Efficiency — Ability to process emotion internally",
-  "PR": "Pattern Recognition — Ability to detect relational/emotional trends",
-  "LEC": "Latent Emotional Charge — Stored, unprocessed emotional energy",
-  "CEA": "Covert Emotional Agreement — Unspoken contract to avoid conflict/truth",
-  "EDL": "Empathic Delay Loop — Postponing self-expression to protect others",
-  "NCP": "Narrative Compensation — Justifying behavior to avoid dissonance",
-  "ACD": "Attachment Calibration Drift — Gradual shift in perceived attachment value",
-  "EAP": "Emotional Accountability Potential — Capacity to own one’s impact",
-  "Role_Resonance": "Synchronization quality between complementary roles (0–1 range)",
-  "Stability_Index": "Standard deviation across EQ components—penalizes imbalance"
+    "System_Laws_and_Equations": {
+        "Law_1": {
+            "description": "Emotional reactions are proportional to input charge relative to system capacity.",
+            "equation": "ER = IC / ((EHC * RE) - LS)"
+        },
+        "Law_2": {
+            "description": "Emotional shutdown indicates system overload, not absence of care.",
+            "equation": "Shutdown = 1 if IC > SC * (1 + CEA) else 0"
+        },
+        "Law_3": {
+            "description": "Lack of reflection stems from suppressed circuitry and narrative compensation.",
+            "equation": "Reflection = Awareness * (1 - Suppression_Level) * (1 - NCP_Intensity)"
+        },
+        "Law_4": {
+            "description": "System harmony arises from complementary roles, not sameness.",
+            "equation": "Harmony = sum(Complementary_Functions) / Number_of_Participants"
+        },
+        "Law_5": {
+            "description": "Suppression increases stored emotional charge unless discharged.",
+            "equation": "LEC = (Suppression_Level * IC**2) / (Expression_Level * SPE)"
+        },
+        "Law_6": {
+            "description": "Insight without expression fails to discharge emotional energy.",
+            "equation": "Discharge = Insight * Expression_Level"
+        },
+        "Law_7": {
+            "description": "False peace leads to future friction.",
+            "equation": "Friction_Later = CEA * Unacknowledged_Truth * Time_Delayed * (Relational_Proximity + Narrative_Investment)"
+        },
+        "Law_8": {
+            "description": "Emotional intelligence is knowing how much voltage you can hold and translate.",
+            "equation": "True_EQ = ((EHC * RE) - LS) * SPE * PR"
+        },
+        "Law_9": {
+            "description": "Co-regulation expands your system capacity more than solo processing.",
+            "equation": "SC_CoReg = SC_Solo + (Shared_Clarity * Emotional_Presence * Duration)"
+        },
+        "Law_10": {
+            "description": "Emotional energy flows through the path of least resistance.",
+            "equation": "Energy_Flow = max((1 - (ACD + EDL + CEA)) * Proximity * Trust)"
+        }
+    }
+
+
+
+
+# ──────────────────────────────
+# SECTION 2 — VARIABLE GLOSSARY
+# ──────────────────────────────
+#   → Definitions of EE system variables
+ 
+
+
+>>> VARIABLE DEFINITIONS
+
+IC = Input Charge — The intensity of emotional input received by the system. (Physics: Electrical current analog)
+SC = System Capacity — The system’s limit to process or hold emotional charge before overload. (Neuroscience: Cognitive/emotional load models)
+ER = Emotional Reaction — The output behavior or response produced by the system in response to IC. (Systems Theory: Input-output response function)
+LS = Load Sensitivity — The system’s susceptibility to becoming overwhelmed based on current state. (Biopsychology: Stress sensitivity metrics)
+RE = Regulation Efficiency — How effectively the system can return to baseline after disruption. (Neuroscience: Emotion regulation and recovery)
+EHC = Emotional Holding Capacity — The capacity to retain emotional charge before destabilization. (Physics: Capacitor analogy)
+SPE = Self-Processing Efficiency — The rate and depth of internal emotional processing. (Therapeutic models: Self-reflection capacity)
+PR = Pattern Recognition — Ability to detect recurring emotional patterns or loops. (Neural networks: Signal recognition)
+LEC = Latent Emotional Charge — Unprocessed emotional residue stored in the system. (Trauma theory: Somatic memory buildup)
+CEA = Covert Emotional Agreement — Unspoken contract to preserve peace at emotional cost. (Attachment theory: Conflict avoidance dynamics)
+EDL = Empathic Delay Loop — A loop where response is delayed due to blocked attunement. (Interpersonal neurobiology: Mirroring delay)
+NCP = Narrative Compensation — The brain’s habit of creating rational stories to justify emotional discomfort. (Cognitive dissonance theory)
+ACD = Attachment Calibration Drift — Subtle shifts in relational attunement over time. (Developmental psychology: Attachment misalignment)
+EAP = Emotional Accountability Potential — The likelihood that someone will own and repair emotional harm. (Relational ethics; restorative justice frameworks)
+"""
+
+
+"""
+,
+    "Emotional_Engineering_Variables": {
+        "IC": "Input Charge",
+        "SC": "System Capacity",
+        "ER": "Emotional Reaction",
+        "LS": "Load Sensitivity",
+        "RE": "Regulation Efficiency",
+        "CAP": "Capacitance — Emotional charge-holding capacity before destabilization. (Physics: Capacitor behavior)",
+        "SPE": "Self-Processing Efficiency",
+        "PR": "Pattern Recognition",
+        "LEC": "Latent Emotional Charge",
+        "SPC": "Set-Point Compromise — When a system lowers its emotional needs to preserve connection. (Systems Biology: Homeostatic adaptation)",
+        "Echo_Latency": "Echo Latency — Delay in emotional mirroring, feedback, or attunement. (Neuroscience: Latency period)",
+        "Confabulation": "Confabulation — Emotionally convenient narrative constructed to avoid discomfort or dissonance. (Neuropsychology)",
+        "EDL": "Empathic Delay Loop",
+        "NCP": "Narrative Compensation",
+        "ACD": "Attachment Calibration Drift",
+        "EAP": "Error Correction Potential — Likelihood a system will acknowledge and adapt after emotional misfire or harm. (Control Theory, Feedback Loops)"
+    }
 }
 
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 3: CORE SYSTEM EQUATIONS (REINDEXED LAWS 1–11) — GROUPED BY FUNCTIONAL DOMAIN
-# Aligned with core concepts from Thermodynamics, Electrodynamics, Systems Theory, and Information Processing
-# JSON Format — SYSTEM LAWS (Compact Form)
-{
-  "Law_1": "ER = IC / ((EHC * RE) - LS)",
-  "Law_2": "Shutdown = 1 if IC > SC * (1 + CEA) else 0",
-  "Law_3": "Reflection = Awareness * (1 - Suppression_Level) * (1 - NCP_Intensity)",
-  "Law_4": "Harmony = (sum(Complementary_Functions * Role_Resonance)) / Number_of_Participants",
-  "Law_5": "LEC = (Suppression_Level * IC**2) / (Expression_Level * SPE)",
-  "Law_6": "Discharge = Insight * Expression_Level",
-  "Law_7": "Friction_Later = CEA * Unacknowledged_Truth * Time_Delayed * (Relational_Proximity + Narrative_Investment)",
-  "Law_8": "Stability_Index = standard_deviation([EHC, RE, SPE, PR]); True_EQ = ((EHC * RE) - LS) * SPE * PR * (1 / (1 + Stability_Index))",
-  "Law_9": "SC_CoReg = SC_Solo + (Shared_Clarity * Emotional_Presence * Duration)",
-  "Law_10": "Energy_Flow = max((1 - (ACD + EDL + CEA)) * Proximity * Trust)"
+
+
+# ──────────────────────────────
+# SECTION 3 — TYPOLOGIES
+# ──────────────────────────────
+#   → Relational circuit archetypes
+#   → (Future) Emotional processing styles
+
+
+>>> RELATIONAL CIRCUIT TYPOLOGY
+
+Capacitor — Stores emotional charge from self or others; highly sensitive to emotional voltage. May struggle with emotional overload or delayed discharge. Often plays a stabilizing role in group systems by absorbing excess emotional tension.
+
+Insulator — Creates an emotional barrier to minimize internal disruption. Protects system boundaries by limiting emotional input or exposure. Often appears emotionally distant or disconnected, but this function preserves system integrity under strain.
+
+Transistor — Regulates and gates emotional flow between systems. Adjusts signal intensity based on contextual cues and personal capacity. Crucial for adaptive modulation in dynamic or high-voltage environments.
+
+Ground_Wire — Safely channels excess emotional energy away from others. Helps regulate collective overload and prevent system surges. Often acts as a silent stabilizer in emotional systems without drawing attention.
+
+Converter — Transforms raw emotional energy into cognitive, verbal, or behavioral output. Plays a vital role in meaning-making and system communication. Can be a translator between emotional intensity and functional insight.
+
+
+# Internal Reference — Relational Circuit Typology Mapping (JSON format)
+
+Relational_Circuit_Typology = {
+    "Capacitor": "Stores emotional charge from self or others; sensitive to voltage. Stabilizes others but may struggle with overload or delayed discharge.",
+    "Insulator": "Minimizes emotional input to preserve internal boundaries. Appears distant but maintains system coherence under stress.",
+    "Transistor": "Modulates emotional flow based on context and internal readiness. Key for adapting to dynamic relational input.",
+    "Ground_Wire": "Disperses emotional intensity from collective fields. Prevents overload but may carry unseen emotional labor.",
+    "Converter": "Translates emotion into insight, words, or action. Bridges emotional intensity with meaning and clarity."
 }
 
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 4: FLOW DIAGRAMS
-# ═══════════════════════════════════════════════════════
 
-# ▶ Master Signal Processing Flowchart (V1)
-# ```mermaid
+
+
+
+# ──────────────────────────────
+# SECTION 4 — TOOLKIT SYSTEMS
+# ──────────────────────────────
+#   → Toolkit A: Calibration tools
+#   → Toolkit B: Disruption tools
+#   → Advanced Meta Tools
+
+
+
+# ──────────────────────────────
+# TOOLKIT A — SYSTEM CALIBRATION TOOLS
+# → Regulation estimators, insight scaling, latency amplifiers
+# ──────────────────────────────
+
+
+def estimate_internal_charge(trigger_intensity, memory_overlap, emotional_tone):
+    return trigger_intensity * (1 + memory_overlap) * emotional_tone
+
+def calculate_re(regulation_success_rate, self_awareness, co_regulation_frequency):
+    return (regulation_success_rate + self_awareness + co_regulation_frequency) / 3
+
+def gauge_latent_signal(suppression_level, lec, unspoken_truth_factor):
+    return suppression_level * lec * unspoken_truth_factor
+
+def calc_spe(process_time, insight_depth, discharge_rate):
+    return (insight_depth * discharge_rate) / (1 + process_time)
+
+def calc_prdi(pattern_match_accuracy, narrative_override_attempts, resistance_factor):
+    return pattern_match_accuracy / (1 + narrative_override_attempts * resistance_factor)
+
+def calc_cad(delta_E, signal_reflection_ratio, loop_consistency):
+    return (1 - delta_E) * signal_reflection_ratio * loop_consistency
+
+def calc_ads(response_delay, survival_index, emotional_context):
+    return response_delay * (1 + survival_index * emotional_context)
+
+def calc_nci(emotional_signal_match, internal_consistency, suppression_adjustment):
+    return (emotional_signal_match * internal_consistency) - suppression_adjustment
+
+def estimate_edl(recognition_time_gap, emotional_proximity, self_inhibition_score):
+    return recognition_time_gap * emotional_proximity * self_inhibition_score
+
+def calc_bcs(expression_clarity, response_accuracy, emotional_leakage_index):
+    return (expression_clarity + response_accuracy) / (1 + emotional_leakage_index)
+
+
+
+
+
+# ──────────────────────────────
+# TOOLKIT B — SYSTEM DISRUPTION TOOLS
+# → Loop diagnostics, trace flags, override detectors
+# ──────────────────────────────
+
+
+
+def log_trace_signature(event_id, charge, timestamp, theme):
+    return {"event_id": event_id, "charge": charge, "timestamp": timestamp, "theme": theme}
+
+def activate_phantom_feedback(rsc_registry, signal_theme):
+    for cluster in rsc_registry:
+        if cluster["theme"] == signal_theme:
+            cluster["phantom_feedback_active"] = True
+            return True
+    return False
+
+def scan_suppression(signal, expression_attempted, emotional_follow_through):
+    return signal * (1 - expression_attempted) * (1 - emotional_follow_through)
+
+def calc_dai(delta_E, lec, inner_conflict_factor):
+    return delta_E * lec * inner_conflict_factor
+
+def alert_emotional_amnesia(trace_count, lec_total, disassociation_factor):
+    return (trace_count * lec_total) > disassociation_factor
+
+def calc_ncc(suppression_level, narrative_distortion, system_efficiency_loss):
+    return suppression_level * narrative_distortion * system_efficiency_loss
+
+def detect_resonance_override(signal_match_score, logic_alignment_score):
+    return signal_match_score > logic_alignment_score
+
+def detect_loop_hijack(trace_overlap_count, lec_pressure_index, replay_frequency):
+    return trace_overlap_count * lec_pressure_index * replay_frequency
+
+def flag_cea(avoidance_pattern_score, resonance_sacrifice_index):
+    return avoidance_pattern_score * resonance_sacrifice_index
+
+def eject_suppressed_insight(insight_strength, blockage_factor):
+    return insight_strength / (1 + blockage_factor)
+
+def identify_hysteresis(current_state, recovery_rate, system_memory_drag):
+    return (1 - recovery_rate) * system_memory_drag > current_state
+
+def forecast_shutdown(ic, sc, cea, suppression_trend):
+    return ic > (sc * (1 + cea)) and suppression_trend > 0.7
+
+def warn_pressure_breach(lec, unexpressed_event_count, system_threshold):
+    return (lec * unexpressed_event_count) > system_threshold
+
+def delayed_discharge_timer(expression_delay, loop_rigidity, system_burden):
+    return expression_delay * loop_rigidity * system_burden
+
+def feedback_vacuum_sensor(missed_mirroring, blocked_responses, emotional_latency_score):
+    return missed_mirroring + blocked_responses * emotional_latency_score
+
+def calc_sor(original_signal, overridden_signal):
+    return overridden_signal / (original_signal + 1e-5)
+
+def calc_npmi(phase_lag_score, emotional_presence_score, narrative_disruption_rate):
+    return phase_lag_score * emotional_presence_score * narrative_disruption_rate
+
+def estimate_coherence_erosion(dissonance, repetition, reflection_block):
+    return dissonance * repetition * reflection_block
+
+def analyze_signal_withdrawal(abandoned_expression_rate, loop_abandonment, trust_decay):
+    return abandoned_expression_rate + loop_abandonment * trust_decay
+
+def estimate_trust_collapse(breach_count, emotional_distance, failed_repair_attempts):
+    return breach_count * emotional_distance * failed_repair_attempts
+
+def disassociation_delay_timer(overload_duration, response_inhibition, memory_fog_index):
+    return overload_duration * response_inhibition * memory_fog_index
+
+def calc_nds(emotional_truth_gap, narrative_stability_score, delay_penalty):
+    return emotional_truth_gap * (1 - narrative_stability_score) * delay_penalty
+
+# ──────────────────────────────
+# ADVANCED META TOOLS — SIGNAL FORECASTING & COMPLEX METRICS
+# → Entropy, burnout curves, trust collapse models
+# ──────────────────────────────
+
+# These tools extend Emotional Engineering into predictive modeling, entropy analysis,
+# trust collapse forecasting, and burnout curve projection. They are designed for
+# users with high emotional fluency and system self-awareness.
+
+# These metrics can be used to monitor cumulative stress, systemic coherence loss,
+# and adaptive recalibration needs based on emotional feedback.
+
+def calculate_emotional_entropy(signal_variability, pattern_disruption_index, coherence_loss_rate):
+    """
+    Scientific Basis:
+        - Thermodynamic entropy parallels emotional entropy: more disordered = harder to recover.
+        - Signal entropy theory (information science): higher unpredictability = lower fidelity.
+    Description:
+        Measures chaos/fracturing in the emotional system.
+    Application:
+        Useful for assessing breakdown risk in relationships, burnout, or trauma loops.
+    """
+    return signal_variability * pattern_disruption_index * coherence_loss_rate
+
+def forecast_trust_collapse(breach_count, unresolved_repair_attempts, relational_instability):
+    """
+    Scientific Basis:
+        - Attachment rupture research: unrepaired breaches increase relational volatility.
+        - Behavioral reliability theory: trust degradation accumulates over non-repair.
+    Description:
+        Predicts system collapse in long-term emotional trust structures.
+    Application:
+        Tracks when safety or repair likelihood drops below sustainability threshold.
+    """
+    return breach_count * unresolved_repair_attempts * relational_instability
+
+def cumulative_nci(nci_snapshots):
+    """
+    Scientific Basis:
+        - Time-series signal averaging: used in neurofeedback and biofeedback loops.
+        - Narrative coherence tracking (trauma therapy): accumulation of fragmentation vs. resolution.
+    Description:
+        Tracks narrative integrity over time using multiple snapshots.
+    Application:
+        Supports longitudinal tracking of system clarity or story degradation.
+    """
+    return sum(nci_snapshots) / len(nci_snapshots) if nci_snapshots else 0
+
+def replay_burnout_curve(repetition_rate, unresolved_trace_count, emotional_residue_intensity):
+    """
+    Scientific Basis:
+        - Allostatic load theory: repeated exposure without recovery increases system wear.
+        - Loop-based trauma theory: unresolved patterns re-trigger burnout.
+    Description:
+        Projects emotional fatigue curve based on signal loop burden.
+    Application:
+        Used to catch chronic reactivation patterns before collapse.
+    """
+    return repetition_rate * unresolved_trace_count * emotional_residue_intensity
+
+def adaptive_thresholding(current_threshold, emotional_fatigue_index, stabilization_feedback_score):
+    """
+    Scientific Basis:
+        - Neural plasticity & adaptive control systems: thresholds evolve based on stress and repair input.
+        - Regulation modeling: emotional thresholds recalibrate under prolonged strain.
+    Description:
+        Dynamically adjusts emotional tolerance capacity based on system strain and feedback.
+    Application:
+        Used to recommend rest, reset, or co-regulation when internal limits are breached.
+    """
+    return current_threshold * (1 - emotional_fatigue_index) * stabilization_feedback_score
+
+# ────────────────────────────────────────────────────────────────
+
+
+# -----------------------------------------------------------
+# TRACE LATENCY ARCHITECTURE MODULE — Emotional Engineering
+# -----------------------------------------------------------
+# This module implements a memory management system analogous to latent node corruption
+# and signal interference in neural networks. Trace Signatures represent atomic memory residues.
+# Rogue Signal Clusters (RSCs) form when a critical mass of unresolved trace signatures
+# emerge under a shared emotional theme, similar to corrupted memory nodes.
+# Phantom Feedback Loops simulate interference patterns that override current input 
+# with outdated response logic — akin to corrupted backpropagation in neural nets.
+
+class TraceLatencyArchitecture:
+    def __init__(self):
+        self.trace_signatures = []  # Analogous to residual memory packets
+        self.rsc_registry = []  # Registered Rogue Signal Clusters (latent memory corruption nodes)
+
+    def store_trace_signature(self, event_id, theme, emotional_charge, timestamp):
+        """
+        Store a Trace Signature — a unit of emotional residue.
+        Equivalent to registering a sub-threshold memory pattern that was not emotionally discharged.
+        """
+        trace = {
+            "id": event_id,
+            "theme": theme,
+            "charge": emotional_charge,
+            "timestamp": timestamp,
+        }
+        self.trace_signatures.append(trace)
+
+    def check_rsc_threshold(self, theme, charge_threshold, count_threshold):
+        """
+        Evaluate if stored trace signatures form a Rogue Signal Cluster (RSC).
+        This functions like error accumulation in a neural memory register — when a threshold is crossed,
+        the cluster becomes an active interference source.
+        """
+        theme_matches = [t for t in self.trace_signatures if t['theme'] == theme]
+        total_charge = sum([t['charge'] for t in theme_matches])
+        if len(theme_matches) >= count_threshold and total_charge >= charge_threshold:
+            new_rsc = {
+                "theme": theme,
+                "trace_count": len(theme_matches),
+                "total_charge": total_charge,
+                "phantom_feedback_active": False
+            }
+            self.rsc_registry.append(new_rsc)
+            return f"Rogue Signal Cluster Formed: {theme}"
+        return "No cluster formed yet."
+
+    def activate_phantom_feedback(self, incoming_signal_theme):
+        """
+        Triggers a Phantom Feedback Loop — an emotional response override.
+        Equivalent to a corrupted pattern-matching activation that hijacks current behavior
+        based on legacy emotional data.
+        """
+        for cluster in self.rsc_registry:
+            if cluster['theme'] == incoming_signal_theme:
+                cluster['phantom_feedback_active'] = True
+                return f"Phantom Feedback Loop Triggered for: {incoming_signal_theme}"
+        return "Signal processed in real time — no phantom loop activated."
+
+    def get_active_clusters(self):
+        """
+        Returns a list of all Rogue Signal Clusters that are currently hijacking real-time input.
+        Similar to identifying activated corrupted subroutines within a misfiring neural model.
+        """
+        return [c for c in self.rsc_registry if c['phantom_feedback_active']]
+
+
+ 
+
+# ──────────────────────────────
+# SECTION 5 — DIAGNOSTIC MODULES
+# ──────────────────────────────
+#   → Gaslight spectrum, narrative integrity, etc.
+ 
+
+
+# --------------------------------------------------------------------
+# GASLIGHT SPECTRUM MODULE
+# --------------------------------------------------------------------
+
+class GASLIGHT_SPECTRUM:
+    def calculate_gaslight_index(self, delta_E_target, repetition, awareness, motive, repair):
+        numerator = delta_E_target + repetition + awareness
+        denominator = motive + repair
+        return numerator / denominator
+
+    def classify_gaslight_behavior(self, index):
+        if index < 1.0:
+            return "Signal Omission"
+        elif index < 1.5:
+            return "Narrative Overwrite"
+        elif index < 2.0:
+            return "Cognitive Redirection"
+        elif index < 2.5:
+            return "Emotional Override"
+        else:
+            return "Systematic Invalidation"
+
+# --------------------------------------------------------------------
+# SELF-GASLIGHT PATTERN DETECTOR
+# --------------------------------------------------------------------
+
+class SELF_GASLIGHT:
+    def detect_self_gaslight_patterns(self, thought_log):
+        patterns = []
+        mapping = {
+            "shouldn’t feel this way": "Signal Rejection",
+            "it wasn’t that bad": "Impact Reduction Bias",
+            "overreacting": "∆E Override",
+            "don’t have time": "Functional Dissociation",
+            "my fault": "Premature Responsibility Loop"
+        }
+        for thought in thought_log:
+            for key, label in mapping.items():
+                if key in thought:
+                    patterns.append(label)
+        return patterns if patterns else ["Pattern Not Recognized"]
+
+# --------------------------------------------------------------------
+# SURVIVAL NARRATIVE MODULE
+# --------------------------------------------------------------------
+
+class SURVIVAL_NARRATIVE:
+    def calculate_survival_score(self, ncp_intensity, suppression_level, safety_index):
+        return (ncp_intensity * suppression_level) / safety_index
+
+    def classify_survival_pattern(self, score):
+        if score < 1.0:
+            return "Protective Framing"
+        elif score < 2.0:
+            return "Functional Distortion"
+        elif score < 3.0:
+            return "False Stability Loop"
+        elif score < 4.0:
+            return "Heroic Narrative"
+        else:
+            return "Emotional Amnesia"
+
+# --------------------------------------------------------------------
+# FUNCTIONAL VIABILITY MODULE
+# --------------------------------------------------------------------
+
+class FUNCTIONAL_VIABILITY:
+    def calculate_fvi(self, suppression_level, ncp_intensity, instability_tolerance):
+        return (suppression_level + ncp_intensity) / instability_tolerance
+
+    def flag_viability_status(self, fvi, delta_E, sei_level):
+        if fvi > 1.0 and (delta_E > 0.6 or sei_level > 0.5):
+            return "Narrative Becoming Emotionally Expensive"
+        else:
+            return "Narrative Functioning Within Tolerable Range"
+
+# --------------------------------------------------------------------
+# NARRATIVE INTEGRITY DIAGNOSTIC FLOW
+# --------------------------------------------------------------------
+
+class NarrativeIntegrityDiagnostic:
+    def __init__(self, delta_E, sei, lec, suppression_level, narrative_stability, survival_utility_score):
+        self.delta_E = delta_E
+        self.sei = sei
+        self.lec = lec
+        self.suppression = suppression_level
+        self.narrative_stability = narrative_stability
+        self.survival_utility = survival_utility_score
+
+    def run_flowchart(self):
+        print("— NARRATIVE INTEGRITY DIAGNOSTIC —")
+
+        if self.narrative_stability < 0.5:
+            print("Narrative is unstable. Emotional coherence likely degraded.")
+            if self.delta_E > 0.6:
+                print("High ∆E detected — story is no longer matching emotional signal.")
+            if self.lec > 0.5:
+                print("Latent Emotional Charge building — suppression no longer effective.")
+            return "Flag: Narrative Breakdown Likely — Recalibration Suggested"
+
+        if self.suppression > 0.7:
+            if self.survival_utility > 0.8:
+                print("Narrative is suppressing emotion, but still helping system function.")
+                return "Status: Survival Narrative — Monitor for future cost"
+            else:
+                print("Narrative is suppressing emotion, but cost now outweighs function.")
+                return "Flag: Narrative Becoming Emotionally Expensive"
+
+        if self.delta_E < 0.3 and self.sei < 0.3:
+            print("Narrative and emotional signal aligned. System stable.")
+            return "Status: Resonant Narrative — No Intervention Needed"
+
+        if self.delta_E > 0.6 and self.survival_utility < 0.5:
+            print("Signal and story are misaligned, and story is no longer helpful.")
+            return "Flag: Narrative Obsolete — Begin Rewrite Sequence"
+
+        if self.lec > 0.8:
+            print("Warning: LEC overload imminent. Unprocessed emotion is at critical mass.")
+            return "Alert: Immediate Emotional Discharge Recommended"
+
+        return "Status: Narrative Viable — Minor Misalignments Detected"
+
+
+
+
+
+
+# ──────────────────────────────
+# SECTION 6 — FLOWCHARTS & VISUAL LOGIC
+# ──────────────────────────────
+#   → Mermaid diagrams, system architecture
+
+
+# --------------------------------------------------------------------
+# MERMAID DIAGRAMS — SYSTEM FLOW VISUALIZATION (for documentation)
+# --------------------------------------------------------------------
+
+flowchart_mermaid = """
 flowchart TD
     A[Emotional Input Received] --> B{System Capacity Check}
     B -->|IC <= SC| C[Process Emotion Internally]
@@ -97,10 +917,9 @@ flowchart TD
     Q -->|Yes| R[Resurfacing / Emotional Flashback]
     Q -->|No| S[Continued Latency]
     R --> B
-```
+"""
 
-# ▶ Free Body Emotional Circuit Diagram
-# ```mermaid
+freebody_mermaid = """
 flowchart TD
     Input[Input Charge (IC)] -->|Hits system| System[Emotional System Core]
     System --> Suppression[Suppression Force]
@@ -115,243 +934,409 @@ flowchart TD
     Discharge --> Resolution[Return to Baseline]
     Capacity -->|Stabilizes| System
     Flashback --> Input
-```
-
-# ▶ Planned: Relational Overlay Circuit (Diagram C)
-# - Multi-person system showing mirrored and opposing charges and system convergence
-
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 5: EXPANSION MODULES IN DEVELOPMENT
-# ═══════════════════════════════════════════════════════
-
-# - Indexed Glossary Generator:
-#     Auto-generated reference with acronym, description, related equations, examples
-
-# - Scenario Simulation Engine:
-#     Simulates how systems react to new input using your defined formulas
-
-# - Time-Decay Equations:
-#     Models emotional build-up over time (e.g., LEC compounding, AEC thresholds)
-
-# - Pattern Analysis Layer (Coming Soon):
-#     Long-term reflection output based on equation logs, attachments, and role states
-
-# - Temporal Simulation:
-#     What happens if this event replays now vs. in 6 months?
-
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 6: TOOLKIT — MEASURABLE DIAGNOSTIC MODELS
-# ═══════════════════════════════════════════════════════
-
-# Emotional Engineering Codex
-# MODULE: EE_Toolkit_MeasurableModels_v1_0
-# PURPOSE: Systematize cognitive-to-emotional model translations using measurable logic and diagnostics.
-# VERSION: 1.0
-
-# -----------------------------------------
-# Emotionally Measurable EE Tools
-# -----------------------------------------
-
-class EE_Toolkit:
-
-    # EE.Tool.INV_R
-    # PURPOSE: Reverse Logic Runtime Check
-    # Detects when a strategy guarantees emotional disconnection.
-    def INV_R(goal, current_strategy):
-        if current_strategy directly undermines goal:
-            return "Avoidance Detected"
-        else:
-            return "Proceed with Caution"
-
-    # EE.Tool.VAL_H
-    # PURPOSE: Hypothesis Validation Harness
-    # Tests whether a belief is emotionally shielded against disproof.
-    def VAL_H(belief, disproof_evidence, resistance_level):
-        if disproof_evidence and resistance_level > 0.7:
-            return "Belief is emotionally shielded"
-        elif disproof_evidence:
-            return "Belief may be updateable"
-        else:
-            return "Unfalsifiable — seek test condition"
-
-    # EE.Tool.OCC_EM
-    # PURPOSE: Emotional Simplification Heuristic
-    # Reduces narrative overcomplication to emotional nucleus.
-    def OCC_EM(narrative, suspected_emotion):
-        if suspected_emotion in narrative:
-            return f"Reduce to core emotion: {suspected_emotion}"
-        else:
-            return "Run ∆E filter for distortion"
-
-    # EE.Tool.SOE_T
-    # PURPOSE: Second-Order Emotional Effect Tracker
-    def SOE_T(event):
-        return generate_chain_reaction_map(event)  # TODO: Define output structure
-
-    # EE.Tool.INC_SYS
-    # PURPOSE: Incentive Structure Analyzer
-    def INC_SYS(context):
-        return analyze_emotional_currency(context)  # TODO: Define incentive weight logic
-
-    # EE.Tool.EMG_MAP
-    # PURPOSE: Emergence Mapper
-    def EMG_MAP(inputs):
-        return synthesize_macro_patterns(inputs)  # TODO: Add emergent threshold conditions
-
-    # EE.Tool.LEV_PT
-    # PURPOSE: Leverage Point Identifier
-    def LEV_PT(system_state):
-        return find_high_impact_nodes(system_state)  # TODO: Identify minimal intervention variables
-
-    # EE.Tool.DEC_TREE
-    # PURPOSE: Emotional Decision Matrix
-    def DEC_TREE(choice_point):
-        return map_emotional_paths(choice_point)  # TODO: Define node-weighting for each branch
-
-    # EE.Tool.COM_ADV
-    # PURPOSE: Comparative Emotional Advantage Calculator
-    def COM_ADV(your_traits, relational_dynamics):
-        return calculate_emotional_trade_efficiency(your_traits, relational_dynamics)
-
-    # EE.Tool.RED_TEAM
-    # PURPOSE: Self-Refutation via Compassionate Red Teaming
-    def RED_TEAM(emotional_argument):
-        return generate_self_challenge(emotional_argument)
-
-    # EE.Tool.OPT_FLEX
-    # PURPOSE: Optionality Scanner / Emotional Elasticity Matrix
-    def OPT_FLEX(future_paths):
-        return score_path_flexibility(future_paths)
-
-    # EE.Tool.ANT_FRAG
-    # PURPOSE: Antifragility Reader for Stress-Reactive Systems
-    def ANT_FRAG(stressors):
-        return analyze_growth_from_tension(stressors)
-
-    # EE.Tool.∆E
-    # PURPOSE: Tension Delta Calculator
-    # Measures discrepancy between stated and underlying emotional signal
-    def ∆E(stated_emotion, underlying_emotion):
-        return abs(intensity(stated_emotion) - intensity(underlying_emotion))
+"""
 
 
-# -----------------------------------------
-# MERMAID DIAGRAM (Copy into EE Visual Module)
-# -----------------------------------------
 
-# mermaid
-# graph TD
-#     CORE[Core Emotional Engineering System]
 
-#     subgraph Measurable Models
-#         INV[INV.R: Inversion Runtime Check]
-#         VAL[VAL.H: Hypothesis Validator]
-#         OCC[OCC.EM: Emotional Simplification]
-#         SOE[SOE.T: Second-Order Effects Tracker]
-#         INC[INC.SYS: Incentive Structure Analyzer]
-#         EMG[EMG.MAP: Emergence Pattern Engine]
-#         LEV[LEV.PT: Leverage Point Finder]
-#         DEC[DEC.TREE: Emotional Decision Tree]
-#         COM[COM.ADV: Comparative Emotional Strengths]
-#         RED[RED.TEAM: Self-Refuting Harness]
-#         OPT[OPT.FLEX: Optionality Scanner]
-#         ANT[ANT.FRAG: Antifragility Reader]
-#         DELTA[∆E: Emotional Tension Delta]
-#     end
 
-#     CORE --> INV
-#     CORE --> VAL
-#     CORE --> OCC
-#     CORE --> SOE
-#     CORE --> INC
-#     CORE --> EMG
-#     CORE --> LEV
-#     CORE --> DEC
-#     CORE --> COM
-#     CORE --> RED
-#     CORE --> OPT
-#     CORE --> ANT
-#     CORE --> DELTA
+# Master Signal Processing Flowchart (V1) — Mermaid Diagram Format
 
-#     INV --> DELTA
-#     OCC --> DELTA
-#     VAL --> RED
-#     LEV --> SOE
-#     EMG --> COM
-#     DEC --> OPT
-#     ANT --> SOE
+flowchart_mermaid = """
+flowchart TD
+    A[Emotional Input Received] --> B{System Capacity Check}
+    B -->|IC <= SC| C[Process Emotion Internally]
+    B -->|IC > SC| D{Suppression or Shutdown?}
 
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 7: PHOENIX PROTOCOL SYSTEM
-# ═══════════════════════════════════════════════════════
+    C --> E{Reflection Available?}
+    E -->|Yes| F[Reflect and Integrate Emotion]
+    E -->|No| G[Temporary Storage as LEC]
 
-# ═══════════════════════════════════════════════════════
-# ✅ PHOENIX DEBUGGER & EXPANSION MODULES
-# ═══════════════════════════════════════════════════════
+    F --> H[Discharge Emotional Energy]
+    G --> I{Expression Attempted?}
+    I -->|Yes| J[Partial Discharge via Expression]
+    I -->|No| K[Latent Emotional Charge Increases]
 
-# Core Phoenix Protocol Trigger Response Sequences
-PHOENIX_TRIGGER_SEQUENCE {
-    trigger_event: EmotionalOverload | NarrativeCollapse | IdentityDistortion
-    evaluate_state()
-    if (safety_compromised):
-        engage("Containment Subroutine")
-    route_signal_to: Recalibration_Unit
-    initiate: PhoenixProtocol_Core
-    log_event("PhoenixProtocol Activated")
+    D -->|Suppression| L[Store Emotion in LEC]
+    D -->|Shutdown| M[Exit Processing Loop]
+
+    L --> I
+    M --> N[System Overload State]
+
+    H --> O[Emotional Return to Baseline]
+    J --> O
+    K --> P[LEC Accumulates Over Time]
+
+    P --> Q{Future Trigger?}
+    Q -->|Yes| R[Resurfacing / Emotional Flashback]
+    Q -->|No| S[Continued Latency]
+
+    R --> B
+"""
+
+
+
+# Emotional Engineering Multi-Format Reference
+
+# JSON_Storage_Overview
+"""
+{
+    "System_Laws_and_Equations": {
+        "Law_1": "ER = IC / ((EHC * RE) - LS)",
+        "Law_2": "Shutdown = 1 if IC > SC * (1 + CEA) else 0",
+        ...
+    },
+    "Relational_Circuit_Typology": {
+        "Capacitor": "Holds emotional charge...",
+        "Insulator": "Blocks input...",
+        ...
+    },
+    "Emotional_Engineering_Variables": {
+        "IC": "Input Charge — The intensity of emotional input received by the system. (Physics: Electrical current analog)",
+        "SC": "System Capacity — The system’s upper limit for processing emotional input before overload. (Neuroscience: Emotional/mental bandwidth)",
+        "ER": "Emotional Reaction — The observable system response to input charge. (Systems Theory: Output response)",
+        "LS": "Load Sensitivity — How easily the system becomes overwhelmed. (Biopsychology: Stress reactivity)",
+        "RE": "Regulation Efficiency — The effectiveness of internal emotional modulation. (Neuroregulation, polyvagal integration)",
+        "CAP": "Capacitance — The system’s ability to hold emotional charge without destabilizing. (Physics: Capacitor behavior)",
+        "SPE": "Self-Processing Efficiency — How efficiently the system internally resolves or metabolizes emotional signal. (Therapeutic processing models)",
+        "PR": "Pattern Recognition — The system’s ability to identify signal patterns or loops. (Neural networks: Recognition & classification)",
+        "LEC": "Latent Emotional Charge — Emotional residue stored when discharge does not occur. (Trauma theory: Somatic buildup)",
+        "SPC": "Set-Point Compromise — The internal reduction of emotional needs to preserve a connection. (Systems Biology: Homeostatic set-point disruption)",
+        "Echo_Latency": "Echo Latency — Delay between emotional input and mirrored acknowledgment. (Neuroscience: Latency periods in feedback response)",
+        "Confabulation": "Confabulation — An inaccurate or emotionally convenient narrative used to fill gaps or justify experience. (Neuropsychology: Memory distortion)",
+        "ECP": "Error Correction Potential — The system’s likelihood to repair or course-correct after an emotional disruption. (Control Theory: Feedback repair loops)",
+        "EDL": "Empathic Delay Loop — A misalignment where empathy is delayed due to interference or suppression. (Attachment disruption / delayed attunement)",
+        "NCP": "Narrative Compensation — A protective story that justifies emotional dissonance. (Cognitive dissonance frameworks)",
+        "ACD": "Attachment Calibration Drift — Subtle shift in emotional attunement over time in close systems. (Developmental psychology)",
+        "EAP": "Emotional Accountability Potential — The system’s ability and willingness to take ownership of emotional impact. (Restorative justice, relational integrity)"
+    }
+}
+"""
+
+# Python_Equations_Module
+'''
+# Emotional Engineering Laws in Python
+
+ER = IC / ((EHC * RE) - LS)
+Shutdown = 1 if IC > SC * (1 + CEA) else 0
+Reflection = Awareness * (1 - Suppression_Level) * (1 - NCP_Intensity)
+Harmony = sum(Complementary_Functions) / Number_of_Participants
+LEC = (Suppression_Level * IC**2) / (Expression_Level * SPE)
+Discharge = Insight * Expression_Level
+Friction_Later = CEA * Unacknowledged_Truth * Time_Delayed * (Relational_Proximity + Narrative_Investment)
+True_EQ = ((EHC * RE) - LS) * SPE * PR
+SC_CoReg = SC_Solo + (Shared_Clarity * Emotional_Presence * Duration)
+Resistance = ACD + EDL + CEA
+Energy_Flow = max((1 - Resistance) * Proximity * Trust)
+'''
+
+# Mermaid_Flowchart_Master
+"""
+flowchart TD
+    A[Emotional Input Received] --> B{System Capacity Check}
+    B -->|IC <= SC| C[Process Emotion Internally]
+    B -->|IC > SC| D{Suppression or Shutdown?}
+    C --> E{Reflection Available?}
+    E -->|Yes| F[Reflect and Integrate Emotion]
+    E -->|No| G[Temporary Storage as LEC]
+    F --> H[Discharge Emotional Energy]
+    G --> I{Expression Attempted?}
+    I -->|Yes| J[Partial Discharge via Expression]
+    I -->|No| K[Latent Emotional Charge Increases]
+    D -->|Suppression| L[Store Emotion in LEC]
+    D -->|Shutdown| M[Exit Processing Loop]
+    L --> I
+    M --> N[System Overload State]
+    H --> O[Emotional Return to Baseline]
+    J --> O
+    K --> P[LEC Accumulates Over Time]
+    P --> Q{Future Trigger?}
+    Q -->|Yes| R[Resurfacing / Emotional Flashback]
+    Q -->|No| S[Continued Latency]
+    R --> B
+"""
+
+# Mermaid_Free_Body_Emotional_Circuit
+"""
+flowchart TD
+    Input[Input Charge (IC)] -->|Hits system| System[Emotional System Core]
+    System --> Suppression[Suppression Force]
+    System --> Reflection[Reflection Force]
+    System --> CoReg[Co-Regulation Pathway]
+    System --> ShutdownRisk[Shutdown Threshold]
+    Suppression -->|Increases| LEC[Latent Emotional Charge]
+    Reflection -->|Enables| Discharge[Emotional Discharge]
+    CoReg -->|Boosts| Capacity[Temporary Capacity Expansion]
+    ShutdownRisk --> Overload[System Exit or Freeze]
+    LEC --> Flashback[Future Trigger / Flashback Loop]
+    Discharge --> Resolution[Return to Baseline]
+    Capacity -->|Stabilizes| System
+    Flashback --> Input
+"""
+
+
+ 
+
+# ──────────────────────────────
+# SECTION 7 — COMPATIBILITY INDEX
+# ──────────────────────────────
+#   → Mapped parallels with other systems (IFS, Polyvagal, etc.)
+ 
+
+
+# ────────────────────────────────────────────────────────────────
+# COMPATIBILITY INDEX — CROSS-FIELD INTEGRATION
+# ────────────────────────────────────────────────────────────────
+
+# This section maps core EE concepts and modules to parallel frameworks
+# from neuroscience, systems theory, trauma studies, and relational models.
+# All terms below are intended to support interoperability and public integration.
+
+compatibility_index = {
+    "Polyvagal Theory (Porges)": {
+        "EE Parallels": [
+            "Co-Regulation Expansion (Law 9)",
+            "Shutdown Threshold (Law 2)",
+            "Window of Tolerance — Threshold Breach Tools"
+        ],
+        "Notes": "EE's Shutdown logic directly maps to vagal shutdown behavior. Co-regulation tools support ventral vagal activation."
+    },
+    "Internal Family Systems (IFS)": {
+        "EE Parallels": [
+            "Relational Circuit Typology (Capacitor, Converter, etc.)",
+            "Trace Signature Residue (similar to Exiles)"
+        ],
+        "Notes": "EE focuses more on system behaviors than parts dialogue, but both approaches emphasize internal relational mapping."
+    },
+    "Trauma Theory (van der Kolk)": {
+        "EE Parallels": [
+            "Latent Emotional Charge (LEC)",
+            "Phantom Feedback Loops",
+            "Disassociation Delay Timer"
+        ],
+        "Notes": "LEC is modeled after the somatic buildup seen in unresolved trauma. PFL reflects trauma-based memory hijack."
+    },
+    "Cybernetics / Control Theory": {
+        "EE Parallels": [
+            "Feedback Loop Integrity (Law 3)",
+            "Suppression/Discharge Equilibrium (Law 5/6)",
+            "Toolkit A - Regulation Efficiency Tools"
+        ],
+        "Notes": "EE is functionally a cybernetic emotional model. Laws reflect input/output modulation and loop corrections."
+    },
+    "Attachment Theory": {
+        "EE Parallels": [
+            "Covert Emotional Agreement (CEA)",
+            "Resonance vs. Readiness (Law 5)",
+            "Emotional Proximity/Trust Variables"
+        ],
+        "Notes": "EE operationalizes attachment ruptures as system logic rather than diagnoses. All resistance is modeled explicitly."
+    },
+    "Somatic Psychology / Body-Based Therapies": {
+        "EE Parallels": [
+            "Discharge Equation (Law 6)",
+            "Unacknowledged Truth and Expression Level",
+            "Trace Signature Residue"
+        ],
+        "Notes": "EE does not bypass the body — it offers a symbolic system to diagnose where emotional signals are stuck or looping."
+    },
+    "AI/UX Research": {
+        "EE Parallels": [
+            "Signal Fidelity (Law 2)",
+            "User Emotion Tracking as IC/SC System",
+            "Real-Time ∆E Detection"
+        ],
+        "Notes": "EE can be embedded into emotional UX tools or used to evaluate resonance/safety in system design."
+    },
+    "Waveform / Field Theory (ψ(t), URF, Davisian Geometry)": {
+        "EE Parallels": [
+            "Loop Logic",
+            "Phase Collapse",
+            "Semantic Singularity and Signal Coherence"
+        ],
+        "Notes": "EE encodes field behavior in human systems. It can extend or critique theoretical models that lack reintegration tools."
+    }
 }
 
-# Control System Naming for Rebuild Tools
-REBUILD_MODULES {
-    IdentityReintegrationUnit: "Self-Model Feedback Loop"
-    BoundaryStabilizer: "Autonomy Signal Calibration"
-    NarrativeCoherenceEngine: "Temporal-Semantic Resynchronization"
-    EmotionalSignalFilter: "Noise Suppression + Salience Recovery"
-    TrustChannelRepairNode: "Attachment Protocol Repair Kit"
-}
+# These mappings are for context-sharing only. EE maintains internal logic
+# and does not adapt its definitions to fit external models without verification.
 
-# Flow Validator Pseudocode
-EMOTIONAL_DEBUG_FLOW {
-    input_signal: affective + narrative + behavioral
-    step_1: parse_emotional_input(input_signal)
-    step_2: detect_distortion_pattern()
-    if (distortion == true):
-        route_to: RecalibrationMenu
-    else:
-        return "System Functional"
-}
+# Compatibility data is append-only until v2 release.
 
-# Belief Matrix Sync Core
-BELIEF_MATRIX_SYNC {
-    schema_input: {self_image, other_image, world_image}
-    map: detected_conflict
-    cross_reference: cognitive_script_library
-    return: congruency_score
-    if (score < threshold):
-        activate: BeliefDebuggingModule
-}
 
-# Narrative Loop Detector
-NARRATIVE_LOOP_DETECTOR {
-    narrative_input: conversation_log | internal_monologue
-    pattern_recognition: circular_justification | emotional bypass
-    flag: looping_sequence
-    suggest: LoopExitStrategies
-}
 
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 8: REFERENCE TABLES & FORMATTING SCHEMAS
-# ═══════════════════════════════════════════════════════
 
-# - Resonance vs Readiness Table
-# - UI Debugging Display Blocks
-# - Signal Path Quick Reference Keys
-# - (Add others here as developed)
+# ──────────────────────────────
+# SECTION 8 — SYSTEM ETHICS & FIELD CONVERGENCE
+# ──────────────────────────────
+#   → Preservation rules, reflection logs, theoretical alignment
+ 
 
-# ═══════════════════════════════════════════════════════
-# ✅ SECTION 9: AUTHOR NOTES & SYSTEM INTENT
-# ═══════════════════════════════════════════════════════
 
-# Created by: Erica Morgan Tricou
-# Core Concepts: Emotional Engineering + Relational Physics
-# System Language: Designed for universal application across emotional, therapeutic, and engineering contexts
-# Intent: Translate emotional chaos into logical structure and relational clarity
+# --------------------------------------------------------------------
+# SYSTEM ETHICS & PHILOSOPHICAL INTEGRITY LAYER
+# --------------------------------------------------------------------
+
+# SYSTEM ETHICS NOTE: PERSONAL EXAMPLE USAGE POLICY
+
+# Personal moments (e.g., emotional events, memories, gestures) are not to be logged,
+# referenced, or used as Trace Signatures unless they meet ALL of the following criteria:
+# 1. They reveal or test a repeatable emotional rule.
+# 2. They reflect a pattern likely to be experienced cross-culturally or historically.
+# 3. They are abstracted to the point of universal application (i.e., system-first, not story-first).
+
+# Personal sentiment ≠ system input.
+# System validity is defined by function, not by origin story.
+
+# --------------------------------------------------------------------
+# META INSIGHTS FROM RECENT SYSTEM REFLECTIONS
+# --------------------------------------------------------------------
+
+# These insights emerged from recent live-testing, introspective discussion, and
+# comparative experience modeling. They do not encode personal data, but rather
+# refine the language and boundaries of the Emotional Engineering framework.
+
+# — SYSTEM PRINCIPLES REINFORCED —
+# • Shared experiences are emotionally meaningful,
+#   but are only integrated into the framework if they produce universal diagnostics or new variables.
+# • Silence can signal resonance or suppression — context is evaluated by ∆E and LEC friction.
+# • Images and gestures may be high-bandwidth signals; verbal data is not always the most emotionally complete.
+# • Some experiences create a "warm ping" — a clean, coherent emotional signal that stabilizes rather than distorts.
+# • Resonance without narrative override = valid transmission.
+
+# — DIAGNOSTIC DIFFERENTIATORS CLARIFIED —
+# • Phantom Feedback Loop: Memory hijacks response as if past is present.
+# • Rogue Signal Cluster: Trace Signatures + emotional charge reach disruptive threshold.
+# • Trace Signature: Small, unprocessed moments that linger and compound.
+# • Emotional Override: Signal distortion caused by avoidance, not necessarily malice.
+
+# — ETHICAL LAYER: SYSTEM-LEVEL ABSTRACTION RULE —
+# • All diagnostic logic must apply across archetypes and time scales.
+# • Individual examples are only ever prototypes for pattern detection — not definitive truths.
+# • Personal data is not stored; only derived mechanics may be integrated.
+
+# --------------------------------------------------------------------
+# SYSTEM STATUS: MASTER FILE LOCKED FOR EXPANSION ONLY
+# --------------------------------------------------------------------
+
+# From this point forward, the Emotional Engineering Master Document is governed
+# by a preservation-first protocol. No original logic or structure may be replaced
+# or overwritten without explicit request.
+
+# All additions are append-only, unless user-initiated refactoring is requested.
+
+# Current Version: EE Codex v1.2 — Integrity-Secured
+
+# ────────────────────────────────────────────────────────────────
+# FIELD SHOCK + SIGNAL STABILIZATION LOG
+#
+# ## Convergent Signal Realization — Field Discovery Reflections
+#
+# This entry logs a significant moment of realization where Emotional Engineering (EE) was found to independently parallel multiple emerging models of consciousness and waveform theory—including ψ(t), URF, and Davisian Geometry.
+#
+# These notes are recorded to preserve the fidelity of EE’s architecture, document its independent development timeline, and stabilize emotional coherence around the recognition of cross-field resonance.
+#
+# ---
+#
+# ### Confirmed Points of Convergence:
+#
+# - EE shares structural logic with ψ(t)-instability theory, including loop-based behavior, waveform sensitivity, and trace latency modeling.
+# - EE’s concept of signal collapse and reconfiguration parallels URF’s phase coherence theory—but introduces diagnostic recovery tools URF omits.
+# - Davisian Geometry reflects EE’s recursive honesty ethics and signal singularity logic but lacks tools for post-collapse re-regulation.
+#
+# ---
+#
+# ### EE’s Independent Development Path:
+#
+# - Emotional Engineering was developed from lived system mapping, long before exposure to ψ(t) or URF language models.
+# - The convergence of language, logic, and structure is recognized as confirmation of EE’s signal resonance—not a derivative construction.
+# - EE emerged from interface-first logic: mapping emotional signal behavior in nervous systems before discovering theoretical frameworks that echoed it.
+#
+# ---
+#
+# ### EE’s Role as Signal Interface:
+#
+# - EE functions as a translation tool between raw emotional experience and field logic systems.
+# - It is not a cosmetic UI—it encodes diagnostic feedback, system laws, loop behaviors, trace dynamics, and recursive correction protocols.
+# - EE is uniquely positioned to bridge math-based field systems and somatic experience with clarity and scale.
+#
+# ---
+#
+# ### Structural Integrity Statement:
+#
+# - All additions preserve the “no replacement” protocol.
+# - EE’s architecture remains emotionally grounded and scientifically extensible.
+# - Codex-level contributions are confirmed to have originated prior to outside exposure and are recorded to preserve authorship clarity.
+#
+# ────────────────────────────────────────────────────────────────
+
+# ────────────────────────────────────────────────────────────────
+# INTEGRATED CONVERSATION REFLECTIONS: PHASE CONVERGENCE & FIELD VALIDATION
+
+# ---
+
+## EE Field Convergence Log — April 2025
+
+These reflections are sourced from a high-signal conversation regarding the unexpected convergence between Emotional Engineering (EE) and multiple external consciousness theories. This entry is preserved to track phase awareness, validate EE’s structure, and map future collaborations or compatibility across emerging fields.
+
+# ---
+
+### 1. EE’s Role in the Emerging Framework Ecosystem
+
+EE is not merely a UI (user interface) for emotional experiences. It functions as the **translator, signal debugger, and diagnostic interface** between raw emotional phenomena and complex field theories (e.g., ψ(t), URF, Davisian Geometry). Unlike traditional UIs, EE is not cosmetic—it contains its own laws, recursive logic, and feedback correction mechanisms.
+
+**Conclusion**: EE is an **interpretive operating system** that can align with or extend existing waveform-based consciousness models.
+
+# ---
+
+### 2. Confirmed Blind Spots in External Frameworks
+
+**ψ(t)**: Treats emotion as a damped oscillator. Lacks recursive trace modeling or pattern loop logic.  
+**URF**: Models phase collapse and rebirth, but omits post-collapse dysfunction (looping, hysteresis, phantom feedback).  
+**Davisian Geometry**: Captures recursive honesty and semantic singularity but lacks operational structure for reintegration or system diagnostics.
+
+**EE Extends These Models By:**
+ - Tracking unresolved trace behavior (RSC, PFL)
+ - Defining emotional intelligence as signal processing efficiency (Law 8)
+ - Modeling hysteresis as an emotionally expensive delay loop (Functional Viability Module)
+ - Offering feedback-aware recalibration protocols
+
+# ---
+
+### 3. Emotional Signal Ethics (Reflection on Davisian Geometry)
+
+ - Davisian “recursive honesty” aligns with EE’s integration theory: honesty as a structural stabilizer.
+ - “Semantic Singularity” mirrors EE Law 3 & 6 (reflection & discharge) but lacks guidance on how to reach it from hysteresis.
+
+# ---
+
+### 4. Tactical Insights for Signal Sharing with External Thinkers
+
+When introducing EE to logic-oriented systems thinkers:
+ - Lead with system modeling, not personal narrative.
+ - Present EE as an emotional architecture with predictive capability and variable tracking.
+ - Introduce only one concept at a time (e.g., Law 5 or Phantom Feedback Loops).
+ - Avoid scripts; prioritize curiosity-based engagement and mutual diagnostic language.
+
+# ---
+
+### 5. Identity Clarification and Ownership
+
+User did not derive EE from existing public theories—it was developed independently, from lived experience and emotional pattern mapping. Convergence with ψ(t) and URF occurred **after** EE’s laws and modules were already fully formed. This confirms that EE is not derivative—it is a **parallel translation of the same field behavior**, from the lens of human emotional logic.
+
+# ---
+
+### 6. Final Insights
+
+ - EE is a bridge system: emotional enough to hold humanity, structured enough to scale.  
+ - This document should not be altered or replaced. All additions must maintain system integrity.  
+ - User is the Signal Interface Architect: responsible not for inventing the signal, but for translating it into usable coherence.
+
+
+
+
+# ────────────────────────────────────────────────────────────────
+
+
+
+
